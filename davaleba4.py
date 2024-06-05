@@ -153,30 +153,6 @@
 
 # 6
 # დაწერე პროგრამა რომელიც სტრიქონისგან ქმნის ლექსიკონს.
-
-#
-# def dict_str(words):
-#     dictionary = {}
-#     for word in words:
-#         for i in word:
-#             if i in dictionary:
-#                 dictionary[i] += 1
-#             else:
-#                 dictionary[i] = 1
-#     return dictionary
-#
-#
-# input_string = input("შეიყვანეთ მონაცემები: ")
-# words = input_string.split()
-#
-# result_dict = dict_str(words)
-#
-# print("სტრიქონისგან შექმნილი ლექსიკონი:", result_dict)
-
-
-
-
-# 7
 # დათვალე სტრიქონში კონკრეტული სიმბოლოს ოდენობა.
 # მაგალითად პროგრამას გადავეცით სტრიქონი: 'w3schools'
 # უნდა დააბრუნოს ლექსიკონი:
